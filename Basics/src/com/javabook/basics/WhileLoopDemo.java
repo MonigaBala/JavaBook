@@ -1,4 +1,9 @@
 package com.javabook.basics;
+/**
+ * Printing the value of x less than 4 using while loop
+ * 
+ * @author Moniga
+ */
 
 public class WhileLoopDemo {
 

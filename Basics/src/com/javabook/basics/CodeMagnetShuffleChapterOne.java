@@ -1,4 +1,9 @@
 package com.javabook.basics;
+/**
+ *  Rearranging the given piece of code w.r.to given output
+ *  
+ *  @author Moniga
+ */
 
 public class CodeMagnetShuffleChapterOne {
 

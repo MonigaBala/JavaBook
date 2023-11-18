@@ -1,4 +1,9 @@
 package com.javabook.basics;
+/**
+ * Checking the number as ODD or Even using ifelse condition
+ * 
+ * @author Moniga
+ */
 
 import java.util.Scanner;
 
@@ -9,7 +14,7 @@ public class ConditionalIfElse {
 		// To check the given number is ODD or Even
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Enter an integer to check odd or even:");
+		System.out.println("Enter an integer to check odd or even : ");
 		int num = scanner.nextInt();
 		
 		if (num > 0 && num % 2 == 0) {

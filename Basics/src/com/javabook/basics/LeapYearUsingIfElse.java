@@ -1,4 +1,9 @@
 package com.javabook.basics;
+/**
+ * To check the input is a leap year or not using ifelse condition
+ * 
+ * @author Moniga
+ */
 
 import java.util.Scanner;
 
