@@ -1,8 +1,7 @@
-package com.javabook.basics;
+package com.javabook.Chapterone;
 
 /**
- * Prints "Big x" ten times
- * 
+ * Prints "Big x" ten times.
  * @author Moniga
  */
 public class ChapterOneExerciseA {

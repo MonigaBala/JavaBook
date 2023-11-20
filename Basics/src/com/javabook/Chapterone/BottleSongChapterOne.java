@@ -1,9 +1,8 @@
-package com.javabook.basics;
+package com.javabook.Chapterone;
 
 /**
- * Prints the Bottle song
- * 
- * @author Moniga 
+ * Prints the Bottle song using while loop.
+ * @author Moniga
  */
 public class BottleSongChapterOne {
 
@@ -18,7 +17,7 @@ public class BottleSongChapterOne {
 				word = "Bottle";
 			}
 
-			System.out.println(bottlesNum +  " green " + word + " hanging on the wall");
+			System.out.println(bottlesNum + " green " + word + " hanging on the wall");
 			System.out.println(bottlesNum + " green " + word + " hanging on the wall");
 			System.out.println("And if one green bottle should accidently fall,");
 

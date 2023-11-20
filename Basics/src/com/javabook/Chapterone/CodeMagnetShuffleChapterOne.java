@@ -1,15 +1,15 @@
-package com.javabook.basics;
+package com.javabook.Chapterone;
+
 /**
- *  Rearranging the given piece of code w.r.to given output
- *  
- *  @author Moniga
+ * This program is given as shuffled parts and just rearrange in order to get
+ * the given output.
+ * 
+ * @author Moniga
  */
-
 public class CodeMagnetShuffleChapterOne {
-
 	public static void main(String[] args) {
-		//This program is given as shuffled parts and just rearrange in order to get the given output
-		int x = 3;      
+
+		int x = 3;
 		while (x > 0) {
 			if (x > 2) {
 				System.out.print("a");
